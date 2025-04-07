@@ -5,9 +5,6 @@ function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container px-4 px-lg-5">
-        <a className="navbar-brand" href="#!">
-          <img src="./video/logo.png" alt="logo" />
-        </a>
 
         <ul className="navbar-nav ms-auto mb-lg-0 mx-4 fs-5 ">
           <li className="nav-item ">
